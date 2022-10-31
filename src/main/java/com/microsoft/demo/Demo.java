@@ -8,6 +8,6 @@ public class Demo {
         }
 
         System.out.println("I am not covered");
-        System.out.println("triggering pipelines for first time");
+        System.out.println("triggering pipelines for first time -2");
     }
 }
